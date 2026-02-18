@@ -1,0 +1,17 @@
+# Variables de entorno
+.env
+
+# Python (temporales y compilados)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# Logs del generador
+log_articulos.jsonl
+
+# Configuración de editores
+.vscode/
+.idea/
